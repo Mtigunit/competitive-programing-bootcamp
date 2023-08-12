@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"ios": "cpp",
+		"iostream": "cpp",
+		"algorithm": "cpp",
+		"bitset": "cpp",
+		"functional": "cpp",
+		"iterator": "cpp",
+		"memory": "cpp"
+	}
+}
