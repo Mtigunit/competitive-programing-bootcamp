@@ -1,6 +1,6 @@
 #include <iostream>
 #include <set>
-// Naimaelbaz#2016
+
 using namespace std;
 
 int main() {
